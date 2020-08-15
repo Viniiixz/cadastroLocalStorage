@@ -2,5 +2,4 @@
 Um sistema em JavaScript de cadastro em localStorage
 
 
-Basic Syntax
-![myimage-alt-tag](url-to-image)
+![myimage-alt-tag](https://github.com/Viniiixz/cadastroLocalStorage/blob/master/cadastroLocalStorage.PNG)
